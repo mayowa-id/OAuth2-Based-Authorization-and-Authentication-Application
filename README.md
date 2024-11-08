@@ -105,5 +105,6 @@ you expose. The default one is username and password-based authentication.
 Since we do not want username and password-based authentication, we need to disable the auto configuration.
 Go to the main class and add the following exclusion:
 
+11/8/2024 - Will update README later today 
 
 
